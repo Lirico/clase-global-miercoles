@@ -1,5 +1,9 @@
 Tarea 1ra clase HTML
 
+<p align="center">
+  <img src="https://i.ibb.co/SvDYGz3/tarea-1-modelo-1.jpg" alt="tarea-1-modelo-1" border="0">
+</p>
+
 En nuestro primer trabajo crearemos la estructura HTML de nuestra primera página web. Para ello usaremos el modelo adjunto como guía.
 
 Consigna:
