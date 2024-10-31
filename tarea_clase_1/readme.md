@@ -9,7 +9,8 @@ En nuestro primer trabajo crearemos la estructura HTML de nuestra primera págin
 Consigna:
 
 - Seleccionar una temática a gusto personal.
-- Repasar la estructura básica de etiquetas semánticas de que vimos en clase y aplicarla al body de nuestro documento para poder desarrollar en ella. (section, article, nav, main, header, etc...)
+- Repasar la estructura básica de etiquetas semánticas de que vimos en clase y aplicarla al body de nuestro documento para poder desarrollar en el. (section, article, nav, main, header, etc...)
+- Ir estructurando el sitio usando dichas etiquetas. Recordar prestar atención al uso de los headings (h1, h2, etc...)
 - Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado. Por ejemplo un comentario que diga **HOME** para indicar donde comienza la sección Home. De esa forma cada sección tiene una forma visual para ser encontrada con facilidad.
 
 Nota:
