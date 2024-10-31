@@ -1,4 +1,4 @@
-Primera tarea HTML
+## Primera tarea HTML
 
 <p align="center">
   <img src="https://i.ibb.co/SvDYGz3/tarea-1-modelo-1.jpg" alt="tarea-1-modelo-1" border="0">
