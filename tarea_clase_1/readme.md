@@ -10,7 +10,7 @@ Consigna:
 
 - Seleccionar una temática a gusto personal.
 - Repasar la estructura básica de etiquetas semánticas de que vimos en clase y aplicarla al body de nuestro documento para poder desarrollar en ella. (section, article, nav, main, header, etc...)
-- Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado. Por ejemeplo un comentario <!-- HOME --> para separar indicar que la seccion Home comienza y uno similar para indicar el comienzo de cada sección.
+- Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado. Por ejemplo un comentario que diga **HOME** para indicar donde comienza la sección Home. De esa forma cada sección tiene una forma visual para ser encontrada con facilidad.
 
 Nota:
 - Para clonar el repo **git clone "enlace al repo"**
