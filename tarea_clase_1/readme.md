@@ -1,4 +1,4 @@
-Tarea 1ra clase HTML
+Primera tarea HTML
 
 <p align="center">
   <img src="https://i.ibb.co/SvDYGz3/tarea-1-modelo-1.jpg" alt="tarea-1-modelo-1" border="0">
@@ -8,9 +8,11 @@ En nuestro primer trabajo crearemos la estructura HTML de nuestra primera págin
 
 Consigna:
 
-- Seleccionar una temática a gusto personal de cada alumno.
-- Repasar la estructura básica de etiquetas semánticas de que vimos en clase y aplicarla al body de nuestro documento para poder desarrollar en ella.
-- Repasar las estiquetas semánticas de bloque que vimos en clase para poder envolver cada conjunto de etiquetas simples.
-- Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado.
+- Seleccionar una temática a gusto personal.
+- Repasar la estructura básica de etiquetas semánticas de que vimos en clase y aplicarla al body de nuestro documento para poder desarrollar en ella. (section, article, nav, main, header, etc...)
+- Agregar en forma ordenada comentarios separadores tanto como el alumno considere apropiado. Por ejemeplo un comentario <!-- HOME --> para separar indicar que la seccion Home comienza y uno similar para indicar el comienzo de cada sección.
 
-Una vez finalizada la tarea comprimir en un archivo zip y subirlo al campus.
+Nota:
+- Para clonar el repo **git clone "enlace al repo"**
+- Para bajar descargar nuevos cambios una vez clonado **git pull** estando parado en la rama de la cual se quieren bajar cambios.
+- Para cambiarte de rama **git checkout "nombre de rama"**
