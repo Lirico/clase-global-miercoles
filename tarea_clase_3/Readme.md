@@ -28,6 +28,10 @@ Extra:
 - En cada página se deberán implementar las metaetiquetas más importantes que vimos en la última clase además de un title acorde a lo que contiene dicha página.
 - Investigar como colocar un iconito en la solapita de la página. (Pista, se utiliza una etiqueta <b>link</b>). Esto debe colocarse en el <b>head</b> debajo de la etiqueta <b>title</b>.
 
+## Entrega:
+- Deberán subir su tarea a un repositorio personal.
+- Luego me enviarán mensaje privado el enlace al repo para que pueda clonar su tarea. Ahí mismo les daré la devolución correspondiente.
+
 ## Nota:
 - Para clonar el repo **git clone "enlace al repo"**
 - Para bajar descargar nuevos cambios una vez clonado **git pull** estando parado en la rama de la cual se quieren bajar cambios.
