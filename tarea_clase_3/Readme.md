@@ -1,4 +1,4 @@
-## Segundara tarea HTML
+## Tercera tarea HTML
 
 Esta será la primera tarea entregable. El objetivo es que tengan una jugosa devolución 
 individual antes de que pasemos al módulo de CSS con el fin de afianzar conceptos de HTML.
