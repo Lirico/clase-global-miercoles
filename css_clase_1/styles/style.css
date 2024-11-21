@@ -1,0 +1,153 @@
+
+/*************** CUSTOM PROPERTIES ***************/
+/* 
+    Variables -> valores pre definidos que vamos a reutilizar en diferentes lugares por medio de referencia
+*/
+
+
+/*************** RESET ***************/
+/* 
+    Aqui establecemos nuevos valores predeterminados para nuestros elementos HTML
+*/
+/* 
+    Estos selectores son solo ejemplos
+
+    * {}
+    html {}
+    body {}
+    a {}
+    button {}
+    div {}
+    li {}
+/*
+
+/*************** UTILITIES ***************/
+/* 
+    Clases pre fabricadas.
+*/
+
+/*************** COMPONENTS ***************/
+
+
+
+/*************** SITE STYLES ***************/
+/********* NAVIGATION **********/
+
+
+/********* HOME **********/
+.home {
+    & h2 {
+        text-align: center;
+    }
+    & p {
+        font-family: "Roboto", serif;
+        font-size: 20px;
+    }
+}
+
+/********* ABOUT **********/
+
+
+/********* CONTACT **********/
+
+
+/********* FOOTER **********/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*****************************************/
+
+/* SELECTOR DE ETIQUETA */
+/* p {
+    color: red;
+    background-color: green;
+} */
+
+/* SELECTOR DE CLASE */
+/* .especial {
+    color: yellow;
+    background-color: blue;
+} */
+
+/* SELECTOR DE ID */
+/* #super_especial {
+    color: purple;
+    background-color: orange;
+} */
+
+
+/********* SELECTORES COMBINADOS ********/
+/* SELECTOR DE HIJOS */
+/* .perritos > h2 {
+    color: red;
+} */
+
+/* SELECTOR DE DESCENDIENTES */
+/* .perritos h2 {
+    color: green;
+} */
+
+
+/* SELECTOR DE HERMANOS */
+/* .perritos > h2 ~ p {
+    color: aqua;
+    background-color: pink;
+} */
+
+/* SELECTOR DE HERMANO ADYASCENTE */
+/* .perritos > h2 + p {
+    color: orange;
+    background-color: brown;
+} */
+
+/* SELECTOR DE ATRIBUTO */
+/* input[type="text"]{
+    color: red;
+} */
+
+/* .perritos {
+    background-color: green;
+
+    & h2 {
+        color: yellow;
+    }
+    & p {
+        color: aqua;
+    }
+} */
+
