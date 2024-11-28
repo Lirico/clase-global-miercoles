@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* 
+    DIMENSIONES
+
+    Relativas: Dependen de otra fuente
+    Ejemplo: %, rem, em, vh (viewport height), vw (viewport width)
+
+    Absolutas: Son aquellas que no dependen de una fuente para obtener su valor
+    Ejemplo: pixeles, metro, cm, km, litro, kilo
+*/
+
+/* .a1 {
+    height: 100vh;
+    background-color: red; 
+}
+.a2 {
+    height: 100vh;
+    background-color: yellow; 
+}
+ */
+
+html {
+    font-size: 12px;
+}
+
+/* 
+    El rem toma referencia de medida global
+    1 rem -> Lo que diga el fs de html -> 16px 
+*/
+
+/* .primera {
+    & h2 {
+        font-size: 2.5rem;
+    }
+    & h3 {
+        font-size: 2rem;
+    }
+    & h4 {
+        font-size: 1.5rem;
+    }
+    & p {
+        font-size: 1.25rem;
+    }
+} */
+
+/* 
+    El em toma referencia de medida local
+    1 em -> Lo que diga el fs del contenedor -> 16px
+*/
+
+/* .segunda {
+    font-size: 20px;
+    & h2 {
+        font-size: 2.5em;
+    }
+    & h3 {
+        font-size: 2em;
+    }
+    & h4 {
+        font-size: 1.5em;
+    }
+    & p {
+        font-size: 1.25em;
+    }
+}
+.tercera {
+    font-size: 8px;
+    & h2 {
+        font-size: 2.5em;
+    }
+    & h3 {
+        font-size: 2em;
+    }
+    & h4 {
+        font-size: 1.5em;
+    }
+    & p {
+        font-size: 1.25em;
+    }
+} */
+
+
+
+
+/*
+    COLORES
+
+    RGB -> RED GREEN BLUE
+    rgb(red, verde, azul) Oscila entre 0 - 255
+
+    HEXADECIMAL -> 0 1 2 3 4 5 6 7 8 9 A B C D E F
+    #3BCDF3
+
+    HSL -> Hue (Matiz/red) Saturation(green) Lightness (brillo/blue)
+    hsl(0 y 360, 0% y 100%, 0% y 100%)
+*/
+
+/* .colores {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(200, 220, 65);
+}
+.colorhijo {
+    width: 150px;
+    height: 150px;
+    background-color: hsl(200, 30%, 50%);
+} */
+
+/* img {
+    width: 300px;
+}
+
+h1 {
+    color: #AA301E;
+}
+
+h2 {
+    color: #3D6100;
+}
+
+h3 {
+    color: #D68A91;
+} */
+
+/* FONDOS */
+
+/* .fondo {
+    color: white;
+    height: 100vh;
+    width: 100%;
+    background-image: url(/css_clase_2/assets/images/thundercats.jpg);
+    background-repeat: no-repeat;
+} */
+
+
+/********************* EFECTO ATTACHMENT *****************/
+/* body {
+    background-image: url(/css_clase_2/assets/images/darthvader.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.home {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+}
+.solid {
+    background-color: white;
+    height: 100vh;
+}
+.transparent {
+    background-color: rgba(255, 255, 0, 0.5);
+    height: 100vh;
+} */
