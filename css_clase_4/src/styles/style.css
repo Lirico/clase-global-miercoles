@@ -1,0 +1,35 @@
+
+/* 
+    FLEXBOX 
+
+    Es un sistema de distribucion flexible de 
+    elementos.
+
+    Con flexbox definiremos una caja (container) como flexible
+    con el objetivo de distribuir sus elementos hijos.
+
+    Investigar flex-grow y flex-shrink
+*/
+
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+
+    display: flex; /* Como si tuvieran inline-block */
+    flex-direction: row;
+    justify-content: center; /* Distribuye los elem. en el eje X */
+    align-items: center; /* Distribuye los elem. en el eje Y */
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border: 1px solid black;
+}
+.uno {
+    align-self: start;
+}
+.tres{
+    align-self: end;
+}
