@@ -1,0 +1,47 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}
+
+.column {
+    border: 2px solid yellow;
+}
+
+/******* MEDIA QUERYS *******/
+/* 
+    Es una caracteristica que me permite definir
+    que estilos quiero para determinada
+    medida de dispositivo.
+*/
+/* Breakpoint */
+/*********** TABLET **********/
+@media screen and (min-width: 768px){
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        background-color: blue;
+    }
+    .column {
+        border: 2px solid yellow;
+    }
+}
+
+/*********** DESKTOP **********/
+@media screen and (min-width: 1400px){
+    .grid {
+        grid-template-columns: repeat(4, 1fr);
+        background-color: red;
+    }
+    .column {
+        border: 2px solid white;
+    }
+}

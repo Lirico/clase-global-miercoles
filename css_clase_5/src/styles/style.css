@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+/********* GRID ***********/
+/* 
+    Es una caracteristica de CSS que nos permite establecer estructuras en forma de grilla.
+    Estas estructuras pueden ser: 
+     -> Sistemas de columnas
+     -> Sistemas de filas
+     -> Sistemas (grillas)
+*/
+.container {
+    width: 500px; /* 500 / 5 -> 100px */
+    height: 500px;
+    background-color: black;
+
+    display: grid;
+    grid-template-rows: 100px 50px repeat(15, 1fr);
+}
+.box {
+    background-color: gray;
+    border: 2px solid white;
+}
