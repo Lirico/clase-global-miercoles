@@ -7,7 +7,7 @@ En esta practicaremos el concepto de coerción de tipos de datos. Esta no es una
 Intentar resolver las siguientes operaciones deduciendo que resultado darían. Luego usar el console.log para revisar el resultado que dan por consola y comparar esos resultados con su deducción y en caso de que no den lo mismo intentar entender por que da el resultado que figura en la consola.
 
 ## Ejercicios:
-6 / "3" =
+6 / "3" = 
 "2" * "3" =
 4 + 5 + "px" =
 "$" + 4 + 5 =
