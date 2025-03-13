@@ -1,0 +1,32 @@
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 2rem;
+}
+
+.card {
+    width: 150px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding: 20px ;
+    box-shadow: 1px 3px 10px -4px black;
+    border-radius: 5px;
+
+    & img {
+        width: 100%;
+        height: 150px;
+        margin-bottom: -0.8rem;
+    }
+    & h3 {
+        text-shadow: 2px 2px 5px black;
+    }
+
+    & p {
+        font-size: 0.8rem;
+        text-shadow: 2px 2px 3px black;
+    }
+}
