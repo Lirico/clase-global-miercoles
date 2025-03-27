@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    display: inline-block;
+    color: red;
+    margin: 5px 0;
+}
+
+input {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
